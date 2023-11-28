@@ -65,21 +65,5 @@ Please refer to [here](client/src/stories/README.md)
 
 10. Upgraded Storybook version from `5.x` to `6.x` and updated syntax of stories.
 
-## Practices from Spring 2022 class
-
-1. airbnb code style for `eslint`
-2. prettier
-3. run unit tests and integration tests in pre-push hooks
-4. run prettier and eslint checks in pre-commit hooks
-
-## Attribution
-
-
-Codebase initially created by Gongpu Zhu, CMU MS-SE Class of 2020.
-
-Codebase updated by Andy Su, CMU MS-SE Class of Fall 2021.
-
-Codebase updated by Pallav Soni, CMU MS-SE Class of Fall 2022.
-
 
 
