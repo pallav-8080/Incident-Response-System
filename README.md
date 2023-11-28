@@ -65,5 +65,9 @@ Please refer to [here](client/src/stories/README.md)
 
 10. Upgraded Storybook version from `5.x` to `6.x` and updated syntax of stories.
 
+## Attribution
+
+Codebase owned by Andy Su, Pallav Soni, Gongpu Zhu @ CMU
+
 
 
