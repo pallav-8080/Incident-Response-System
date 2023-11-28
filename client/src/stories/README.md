@@ -1,0 +1,1 @@
+This folder contains examples fetched from [official documents](https://storybook.js.org/docs/react/writing-stories/introduction). After starting up Storybook server, it will be shown under `Examples`.
